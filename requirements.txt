@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+SQLAlchemy==2.0.40
+alembic==1.15.2
+passlib==1.7.4
+python-jose==3.4.0
+python-multipart
