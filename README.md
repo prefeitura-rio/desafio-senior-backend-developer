@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao desafio técnico para a vaga de Pessoa Desenvolvedora Back-end Sênior!
 
-Nosso objetivo com este desafio é avaliar suas habilidades técnicas em FastAPI, bancos de dados, arquitetura de APIs e boas práticas de desenvolvimento back-end.
+Nosso objetivo com este desafio é avaliar suas habilidades técnicas em Gin, bancos de dados, arquitetura de APIs e boas práticas de desenvolvimento back-end.
 
 ## 📌 Contexto
 
@@ -32,11 +32,11 @@ Seu desafio será desenvolver uma API para essa carteira digital, simulando as i
 
 ### 🔹 Requisitos Técnicos
 
-- FastAPI como framework principal.
+- Gin como framework principal.
 - Banco de Dados Relacional (PostgreSQL ou MySQL, usando ORM como SQLAlchemy ou Tortoise-ORM).
 - Ferramenta de migrations (Alembic, Aerich, etc).
 - Testes automatizados para pelo menos uma funcionalidade crítica.
-- Documentação da API (usando OpenAPI gerado pelo FastAPI e README explicativo).
+- Documentação da API (usando OpenAPI gerado pelo Gin e README explicativo).
 - Endpoint de verificação de saúde da API (por exemplo, `/health`).
 - Configuração de CI/CD (um workflow simples no GitHub Actions ou equivalente para rodar os testes automaticamente).
 - Dockerfile e/ou docker-compose para rodar o projeto facilmente.
@@ -51,7 +51,7 @@ Seu desafio será desenvolver uma API para essa carteira digital, simulando as i
 ## 📖 O que será avaliado?
 
 - Código limpo e bem estruturado.
-- Boas práticas com FastAPI e Python.
+- Boas práticas com Gin e Go.
 - Modelagem eficiente do banco de dados.
 - Testes automatizados.
 - Configuração de CI/CD e Docker.
